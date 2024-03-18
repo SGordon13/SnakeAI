@@ -2,14 +2,14 @@
 # Scott Gordon, Chris Ober
 
 To compile our code, simply have the five files in the desired directory:  
-    EDAmain.cpp  
+\t    EDAmain.cpp  
     MDAmain.cpp  
     Qmain.cpp  
     Makefile  
     README.md  
 
 Then run the command:  
-    make
+    Make
 
 To run our code, simply run the desired command:  
     ./EDAmain   // runs A* with euclidean distance  
