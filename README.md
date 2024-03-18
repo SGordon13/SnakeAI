@@ -2,23 +2,23 @@
 # Scott Gordon, Chris Ober
 
 To compile our code, simply have the five files in the desired directory:  
-\t    EDAmain.cpp  
-    MDAmain.cpp  
-    Qmain.cpp  
-    Makefile  
-    README.md  
+&nbsp;    EDAmain.cpp  
+&nbsp;    MDAmain.cpp  
+&nbsp;    Qmain.cpp  
+&nbsp;    Makefile  
+&nbsp;    README.md  
 
 Then run the command:  
-    Make
+&nbsp;    Make
 
 To run our code, simply run the desired command:  
-    ./EDAmain   // runs A* with euclidean distance  
-    ./MDAmain   // runs A* with manhattan distance  
-    ./Qmain     // runs Q-learning  
+&nbsp;    ./EDAmain   // runs A* with euclidean distance  
+&nbsp;    ./MDAmain   // runs A* with manhattan distance  
+&nbsp;    ./Qmain     // runs Q-learning  
 
 To clean your directory after running you can run the command:  
-    make clean  
+&nbsp;    Make clean  
 
 To exit early you can press  
-    control + 'c'
+&nbsp;    control + 'c'
 
